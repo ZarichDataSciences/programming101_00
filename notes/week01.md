@@ -62,6 +62,16 @@
 
  ## TODO
 
+
+  // Method (class method or instance method)
+
+  // 1 - access modifier
+  // 2 - return type
+  // 3 - Method signature
+  //    a - Name
+  //    b - Parameters
+  // 4 - Body (the part that runs)
+
 * Declaration vs Definition
 
 * Stack 
